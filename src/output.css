@@ -3023,6 +3023,10 @@ video {
     background-image: url('../assets/desk3-07.jpg');
   }
 
+  .lg\:bg-\[url\(\'\.\.\/assets\/neww-07\.jpg\'\)\]{
+    background-image: url('../assets/neww-07.jpg');
+  }
+
   .lg\:bg-bottom{
     background-position: bottom;
   }
