@@ -2028,8 +2028,16 @@ video {
   background-image: url('../assets/ffs2-02.jpg');
 }
 
-.bg-\[url\(\'\.\.\/assets\/neww-04\.jpg\'\)\]{
-  background-image: url('../assets/neww-04.jpg');
+.bg-\[url\(\'\.\.\/assets\/neu-04\.jpg\'\)\]{
+  background-image: url('../assets/neu-04.jpg');
+}
+
+.bg-\[url\(\'\.\.\/assets\/neu-04\.png\'\)\]{
+  background-image: url('../assets/neu-04.png');
+}
+
+.bg-\[url\(\'\.\.\/assets\/neuu-04\.png\'\)\]{
+  background-image: url('../assets/neuu-04.png');
 }
 
 .decoration-slice{
@@ -3019,12 +3027,12 @@ video {
     background-image: url('../assets/desk2-06.jpg');
   }
 
-  .lg\:bg-\[url\(\'\.\.\/assets\/desk3-07\.jpg\'\)\]{
-    background-image: url('../assets/desk3-07.jpg');
-  }
-
   .lg\:bg-\[url\(\'\.\.\/assets\/neww-07\.jpg\'\)\]{
     background-image: url('../assets/neww-07.jpg');
+  }
+
+  .lg\:bg-\[url\(\'\.\.\/assets\/neuu-07\.jpg\'\)\]{
+    background-image: url('../assets/neuu-07.jpg');
   }
 
   .lg\:bg-bottom{
